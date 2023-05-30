@@ -1,1 +1,1 @@
-# batch-2---final-exam---edtech-platform-soyeba3
+# Think in a Redux way course final assignment (Learning Portal)
