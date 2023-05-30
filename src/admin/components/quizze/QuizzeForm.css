@@ -1,0 +1,28 @@
+.video-div {
+  margin-bottom: 20px !important;
+  margin-top: 20px !important;
+}
+
+.option-div {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 20px !important;
+  margin-top: 20px !important;
+}
+
+.option-input {
+  width: 85%;
+}
+
+.checkbox-div {
+  width: 15%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.checkbox-div > .checkbox {
+  margin-top: 5px;
+  cursor: pointer;
+}
